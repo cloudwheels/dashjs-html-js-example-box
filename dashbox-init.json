@@ -2,7 +2,10 @@
   "docs_url": "http://github.com/dashdev-box/dashjs-html-js-example-box/",
   "post_clone_remove": [
     "README.md",
-    ".gitignore"
+    ".gitignore",
+    "test/.gitkeep",
+    "contracts/.gitkeep",
+    "migrations/.gitkeep"
   ],
   "post_clone_execute": {
     "e1": "echo 'hello world'"
