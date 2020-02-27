@@ -2,6 +2,11 @@
   "name": "dashjs-html-js-example",
   "version": "1.0.0",
   "description": "",
+  "homepage": "https://github.com/dashdev-box/dashjs-html-js-example-box/",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dashdev-box/dashjs-html-js-example-box.git"
+  },
   "directories": {
     "test": "test"
   },
