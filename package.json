@@ -1,0 +1,19 @@
+{
+  "name": "dashjs-html-js-example",
+  "version": "1.0.0",
+  "description": "",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "dev": "lite-server",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "lite-server": "^2.5.4"
+  },
+  "dependencies": {}
+}

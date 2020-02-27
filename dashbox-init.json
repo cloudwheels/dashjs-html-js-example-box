@@ -1,0 +1,14 @@
+{
+  "docs_url": "http://github.com/dashdev-box/dashjs-html-js-example-box/",
+  "post-clone-remove": [
+    "README.md",
+    ".gitignore"
+  ],
+  "hooks": {
+    "post-clone-execute": ""
+  },
+  "commands": {
+    "npm run start": "Execute 'node app.js'",
+    "npm run dev": "Start lite-server with baseDir ./src configured in bs-config.json"
+  }
+}
